@@ -1,1 +1,0 @@
-package gsb.tests.view;
